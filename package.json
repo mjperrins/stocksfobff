@@ -38,7 +38,7 @@
     "cors": "^2.8.5",
     "rxjs": "^6.5.2",
     "superagent": "^5.0.5",
-    "tslib": "^1.10.0",
+    "tslib": "^1.13.0",
     "typescript-ioc": "^1.2.5",
     "typescript-rest": "^2.0.0",
     "typescript-rest-swagger": "0.0.24"
