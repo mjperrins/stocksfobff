@@ -40,8 +40,8 @@
     "superagent": "^5.0.5",
     "tslib": "^1.10.0",
     "typescript-ioc": "^1.2.5",
-    "typescript-rest": "^2.0.0",
-    "typescript-rest-swagger": "0.0.24"
+    "typescript-rest": "^3.0.3",
+    "typescript-rest-swagger": "1.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
